@@ -25,7 +25,7 @@ moves file "betty" from /tmp/ directory to /tmp/holberton/ directory
 8-firstdelete
 deletes file "betty" from /tmp/holberton/ directory
 
-9-firstdeletion
+9-firstdirdeletion
 deletes directory /holberton/ from /tmp/ directory
 
 10-back
