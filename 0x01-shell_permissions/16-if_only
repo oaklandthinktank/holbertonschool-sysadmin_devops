@@ -1,0 +1,2 @@
+#!/bin/bash
+if id -g == guillame; then chown betty hello;fi
